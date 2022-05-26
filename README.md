@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianjoshua-M
 - 👀 I’m interested in cyber security and forensics
-- 🌱 I’m currently learning information security and forensics 
+- 🌱 I’m currently learning python and familiarizing myself with kalilinux  
 - 💞️ I’m looking to collaborate on any projects or works that will significantly build my skillset and also have fun while working on.
 - 📫 How to reach me - you can reach me on my email ( ianmurithi107@gmail.com )
 
