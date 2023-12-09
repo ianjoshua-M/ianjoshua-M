@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ianjoshua Murithi based in Nairobi,Kenya.
-- 👀 I’m interested in cyber security and forensics
+- 👀 I’m interested in cyber security and forensics, Networking and linux.
 - 🌱 I’m currently learning C ,C++ and familiarizing myself with linux CLI. 
 - 💞️ I’m looking to collaborate on any projects or works that will significantly build my skillset and also have fun while working on.
 - 📫 How to reach me - you can reach me on my email ( ianmurithi107@gmail.com )
